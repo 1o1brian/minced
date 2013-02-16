@@ -1,0 +1,8 @@
+/*jshint browser:true*/
+
+(function($){
+  $(function () {
+    window.alert('Hello Assets');
+    window.env = <%- JSON.stringify(process.env) %>;
+  });
+}(jQuery));

@@ -1,0 +1,12 @@
+{
+  "name": "minced",
+  "version": "0.0.1",
+  "author": "bob",
+  "description": "...",
+  "dependencies": {
+    "mincer": "~0.4.4",
+    "less": "~1.3.3",
+    "ejs": "~0.8.3",
+    "uglify-js": "~1.3.4"
+  }
+}
